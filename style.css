@@ -11,9 +11,10 @@ body{
       
 }
 
+
 :root {
 
---bg-primary: rgb(161, 241, 241);
+--bg-primary: rgb(85, 153, 222);
 --bg-secondary: rgb(255, 255, 255);
 --text-primary: rgb(255, 255, 255);
 --text-secondary: rgb(9, 8, 8);
