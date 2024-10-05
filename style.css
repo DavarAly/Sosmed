@@ -80,9 +80,9 @@ background-color: var(--bg-primary);
 color: var(--text-primary);
 }
 
-@media screen and(max-width: 100px) {
+@media screen {
 .card{
-    width: 95%;
+    width: 70%;
 }
 .description{
     font-size: 1em;
